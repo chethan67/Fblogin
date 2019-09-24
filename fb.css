@@ -18,7 +18,7 @@ body {
 .first {
     padding-left: 100px;
     padding-bottom: 100px;
-    font-family: cursive;
+    font-style: italic;
     font-size: 40px;
     color: white;
     font-weight: 600;
@@ -39,7 +39,7 @@ body {
 }
 
 .newest {
-    margin-left: 300px;
+    margin-left: 600px;
 }
 
 
